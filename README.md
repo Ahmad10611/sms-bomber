@@ -30,7 +30,7 @@ pkg install git && pkg install python && pip install urllib3
 ## Step 3: Get install bomber tools
 
 ```
-git clone https://github.com/NiREvil/sms-bomber
+git clone https://github.com/Ahmad10611/sms-bomber
 ```
 
 
